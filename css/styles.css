@@ -12,6 +12,8 @@ li {
   list-style-type: none;
 }
 
+/* HEADER CONTENT */
+
 .logo {
   font-family: 'Raleway', sans-serif;
   color: #4d5ae5;
@@ -45,6 +47,8 @@ li {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
+/* MAIN CONTENT */
 
 .section-first {
   background-color: #2e2f42;
@@ -118,6 +122,8 @@ li {
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
+
+/* FOOTER CONTENT */
 
 .footer {
   background-color: #2e2f42;
